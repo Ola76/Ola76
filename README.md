@@ -1,4 +1,4 @@
-🎓 **Educational Background:** Recently graduated with an M.Sc. in International Business from Cologne Business School, Köln, specializing in Strategy Management and Consulting.
+🎓 **Educational Background:** Recently graduated with an M.A. in International Business from Cologne Business School, Köln, specializing in Strategy Management and Consulting.
 
 📊 **Professional Experience:** My journey in the professional world has led me to collaborate with diverse B2C and B2B teams. My core strengths lie in defining requirements, evaluating product performance, and executing market competitiveness analysis.
 

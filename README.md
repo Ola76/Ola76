@@ -3,7 +3,7 @@
 📊 **Professional Experience:** My journey in the professional world has led me to collaborate with diverse B2C and B2B teams. My core strengths lie in defining requirements, evaluating product performance, and executing market competitiveness analysis.
 
 💼 **Technical Skills:**
-- 📉 Advanced proficiency in Excel, Tableau, SQL, Python, and Streamlit.
+- 📉 Advanced proficiency in Excel, Tableau, SQL, Python, FastAPI, and Streamlit.
 - 🤖 Developed various ML Web applications such as Sentiment_app and Market_basket_app.
 - 🚀 Passionate about harnessing data to drive decision-making, demonstrated through a series of projects showcased in my [portfolio](https://ola76.github.io/OburohBIAnalyst.github.io/).
 

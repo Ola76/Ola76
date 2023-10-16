@@ -7,7 +7,7 @@
 📉 Advanced proficiency in Excel, Tableau, SQL, Python, FastAPI, and Streamlit.
 
 🖥 Web Development: Proficient in HTML and CSS, laying the foundation for responsive and interactive web designs.
-🤖 Developed various ML Web applications such as Sentiment_app and Market_basket_app.
+🤖 Developed various ML Web applications such as [Sentiment_app](https://sentimentstream.streamlit.app/) and [Dashboard_app](https://superstoreappusa.streamlit.app/).
 
 🚀 Passionate about harnessing data to drive decision-making, demonstrated through a series of projects showcased in my portfolio.
 

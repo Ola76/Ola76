@@ -1,8 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Moving Image](anime.gif)
-
-
 ## 📊 Professional Experience
 In my professional journey, I've collaborated with diverse B2C and B2B teams, leveraging my strengths in defining requirements, evaluating product performance, and conducting market competitiveness analysis.
 

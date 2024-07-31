@@ -87,9 +87,4 @@ I'm always open to collaborating on interesting projects or simply networking wi
   <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="48" height="48" alt="Twitter" /></a>
 </div>
 
----
 
-### 📬 Contact Information
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)

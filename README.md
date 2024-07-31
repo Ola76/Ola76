@@ -1,4 +1,3 @@
-
 # 👋 Welcome to My GitHub Profile!
 
 Hi there! I'm passionate about **data-driven decision-making** and **web development**. I love turning complex data into actionable insights and creating engaging web applications. Let's connect and create something amazing together!
@@ -54,6 +53,14 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/ios/50/000000/jinja.png" width="48" height="48" alt="Jinja" />
+      <br>Jinja
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/flask.png" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
   </tr>
 </table>
 
@@ -61,6 +68,9 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
 - **Projects:**
   - [Sentiment App](https://sentimentstream.streamlit.app/)
   - [Dashboard App](https://superstoreappusa.streamlit.app/)
+
+### 🏆 Kaggle Profile
+Check out my data science projects and competitions on [Kaggle](https://www.kaggle.com/playfulminds).
 
 ## 🚀 Passionate About Data-Driven Decision-Making
 I am passionate about harnessing data to drive decision-making, as reflected in a series of projects showcased in my portfolio. These projects not only demonstrate my technical skills but also highlight my commitment to delivering impactful solutions.
@@ -76,3 +86,10 @@ I'm always open to collaborating on interesting projects or simply networking wi
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="48" height="48" alt="LinkedIn" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="48" height="48" alt="Twitter" /></a>
 </div>
+
+---
+
+### 📬 Contact Information
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)

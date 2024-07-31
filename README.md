@@ -33,17 +33,10 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
     </td>
   </tr>
 </table>
-
-Let's use a different image source for the Jinja icon that should work correctly:
-
-```html
 <td align="center" width="96">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Jinja_software_logo.svg" width="48" height="48" alt="Jinja" />
   <br>Jinja
 </td>
-```
-
-Here's the full `Web Development` section with this change:
 
 ### 🖥 Web Development
 <table>

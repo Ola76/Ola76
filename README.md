@@ -34,6 +34,17 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
   </tr>
 </table>
 
+Let's use a different image source for the Jinja icon that should work correctly:
+
+```html
+<td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Jinja_software_logo.svg" width="48" height="48" alt="Jinja" />
+  <br>Jinja
+</td>
+```
+
+Here's the full `Web Development` section with this change:
+
 ### 🖥 Web Development
 <table>
   <tr>
@@ -54,7 +65,7 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/ios/50/000000/jinja.png" width="48" height="48" alt="Jinja" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Jinja_software_logo.svg" width="48" height="48" alt="Jinja" />
       <br>Jinja
     </td>
     <td align="center" width="96">

@@ -54,11 +54,11 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/ios/50/000000/jinja.png" width="48" height="48" alt="Jinja" />
+      <img src="https://th.bing.com/th/id/OIP.OKVQmkFseGlTTHtL6_1vFwAAAA?rs=1&pid=ImgDetMain" width="48" height="48" alt="Jinja" />
       <br>Jinja
     </td>
     <td align="center" width="96">
-      <img src="https://th.bing.com/th/id/OIP.OKVQmkFseGlTTHtL6_1vFwAAAA?rs=1&pid=ImgDetMain" width="48" height="48" alt="Flask" />
+      <img src="https://img.icons8.com/color/48/000000/flask.png" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
   </tr>
@@ -86,5 +86,3 @@ I'm always open to collaborating on interesting projects or simply networking wi
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="48" height="48" alt="LinkedIn" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="48" height="48" alt="Twitter" /></a>
 </div>
-
-

@@ -28,7 +28,7 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
       <br>Rust
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/ios/50/000000/streamlit.png" width="48" height="48" alt="Streamlit" />
+      <img src="https://th.bing.com/th/id/R.bdca5a0fbce0a5489a6bf98fdb58954b?rik=yFmZBtMfmRILXw&pid=ImgRaw&r=0" width="48" height="48" alt="Streamlit" />
       <br>Streamlit
     </td>
   </tr>
@@ -58,7 +58,7 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
       <br>Jinja
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/flask.png" width="48" height="48" alt="Flask" />
+      <img src="https://datacorner.fr/wp-content/uploads/2019/04/flask.png" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
   </tr>

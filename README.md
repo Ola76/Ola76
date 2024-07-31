@@ -58,7 +58,7 @@ Hi there! I'm passionate about **data-driven decision-making** and **web develop
       <br>Jinja
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/flask.png" width="48" height="48" alt="Flask" />
+      <img src="https://th.bing.com/th/id/OIP.OKVQmkFseGlTTHtL6_1vFwAAAA?rs=1&pid=ImgDetMain" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
   </tr>
